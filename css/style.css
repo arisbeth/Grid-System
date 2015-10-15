@@ -1,0 +1,194 @@
+header{
+	padding:15px 0;
+	margin:0;
+	color: #fff;
+	border-bottom: solid #333 1px;
+	background: #333;
+}
+
+.logo{
+	width:80px;
+	height:80px;
+}
+
+nav ul{
+	list-style-type: none;
+	padding-top: 34px;
+	margin:0 -15px 0 0;
+	float:right;
+	font-size: 14px;
+	line-height: 14px;
+	text-transform: uppercase;
+	white-space: nowrap;
+}
+
+nav li{
+	font-family: Helvetica;
+	position:relative;
+	float: left;
+	margin: 0;
+	padding:0;
+}
+
+nav li:hover a{
+	background: #585858;
+}
+
+nav a{
+	text-decoration: none;
+	padding: 10px 15px;
+	color: #eee;
+	text-shadow: 2px 2px 4px #000;
+}
+
+nav a:hover {
+	color: #fff;
+}
+
+/* mi contenido*/
+
+h4:first-child{
+	font-family: Helvetica;
+	margin-top: 20px;
+	margin-bottom: 20px
+}
+
+
+.gris{
+	background-color: #C3C3C3;
+	padding-bottom: 50px;
+}
+
+div h5{
+	text-align: center;
+	margin-top: 10px;
+
+}
+
+
+.imagenes{
+	width:100%;
+	width:100%;
+	border: ridge;
+}
+
+img+p{
+	text-align: center;
+	font-family: Helvetica;
+	margin-bottom:10px;
+}
+
+.pulgares{padding-top:30px;}
+
+
+/*info dercha*/
+
+.derdiv{padding-right: 200px}
+
+p img{width: 12px;
+height: 12px;
+margin-right: 10px
+}
+
+
+.derh5{
+	font-family: Helvetica;
+	color: gray;
+	text-align:left;
+}
+
+hr{border: solid #C3C3C3 1px
+}
+
+.derp{
+	text-align: left;
+	font-family: Helvetica;
+	font-size: 12px;
+	color: #186FA6;
+	margin-bottom:10px;
+	margin-top: 10px
+}
+
+.derpultimo{text-align: left;
+	font-family: Helvetica;
+	font-size: 12px;
+	line-height: 1.5;
+	color:gray;
+	margin-bottom:10px;
+	margin-top: 10px}
+
+/*enlaces body*/
+
+a{text-decoration: none}
+
+a:hover{
+	color: #B40404
+}
+
+div img:hover{
+	box-shadow: 7px 7px 7px gray
+}
+
+h4 a{
+	color: #186FA6;
+	font-size: 10px
+}
+
+img+p a{font-size: 11.5px;
+	color: #186FA6;
+}
+
+div h5 a{
+	font-family: Helvetica;
+	color: #186FA6;
+}
+
+p a{font-family: Helvetica;
+	font-size: 12px;
+	color: #186FA6;
+}
+
+footer a{font-family: Helvetica;
+	font-size: 12px;
+	color: #BDBDBD;
+}
+
+/*pie de página*/
+
+footer{background: #585858;
+margin-top: 20px
+}
+
+footer div{margin: 20px
+}
+
+footer p:first-child{
+	font-family: Helvetica;
+	color: #F2F2F2;
+	font-size: 12px;
+	padding-bottom:20px;
+	padding-top: 12px;
+	margin-left: 60px;
+	margin-right: 60px
+}
+
+footer p:nth-child(2){
+	font-family: Helvetica;
+	color: #BDBDBD;
+	font-size: 11px;
+	text-align:center;
+	word-spacing: 5px;
+	padding-bottom:20px
+}
+
+footer p:nth-child(3){
+	font-family: Helvetica;
+	color: #A4A4A4;
+	font-size: 10px;
+	text-align:center;
+	padding-bottom:20px
+}
+
+
+
+
